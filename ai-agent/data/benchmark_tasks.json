@@ -1,0 +1,32 @@
+[
+  {
+    "id": "task-1",
+    "task": "What is (482 * 17) - (963 / 3)? Give me the exact final number.",
+    "expects_tool": "calculator",
+    "expected_answer_contains": "7873"
+  },
+  {
+    "id": "task-2",
+    "task": "Write and run Python code to compute the sum of all prime numbers below 100.",
+    "expects_tool": "code_executor",
+    "expected_answer_contains": "1060"
+  },
+  {
+    "id": "task-3",
+    "task": "Search the web for the current stable version of Python, then tell me what it is.",
+    "expects_tool": "web_search",
+    "expected_answer_contains": null
+  },
+  {
+    "id": "task-4",
+    "task": "A rectangle has a perimeter of 60cm and a length that is twice its width. Compute the area using code, then verify the perimeter arithmetic with the calculator.",
+    "expects_tool": "code_executor",
+    "expected_answer_contains": "200"
+  },
+  {
+    "id": "task-5",
+    "task": "Compute the compound interest on $1000 at 5% annual rate for 10 years, compounded annually, rounded to 2 decimal places.",
+    "expects_tool": "code_executor",
+    "expected_answer_contains": "1628.89"
+  }
+]

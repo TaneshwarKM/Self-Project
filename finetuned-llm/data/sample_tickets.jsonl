@@ -1,0 +1,20 @@
+{"text": "My payment failed twice but I was still charged both times, please refund me.", "label": "billing_issue"}
+{"text": "I can't log into my account, it keeps saying invalid password even after reset.", "label": "account_access"}
+{"text": "The app crashes every time I try to upload a photo larger than 5MB.", "label": "bug_report"}
+{"text": "Can you add a dark mode option? My eyes hurt using this at night.", "label": "feature_request"}
+{"text": "I was charged for the annual plan but I only signed up for monthly.", "label": "billing_issue"}
+{"text": "Two-factor authentication code never arrives on my phone.", "label": "account_access"}
+{"text": "Export to CSV button does nothing when I click it.", "label": "bug_report"}
+{"text": "It would be great if the dashboard supported custom date ranges.", "label": "feature_request"}
+{"text": "My subscription renewed but I cancelled it three weeks ago.", "label": "billing_issue"}
+{"text": "I'm locked out after entering the wrong password too many times.", "label": "account_access"}
+{"text": "The search bar returns zero results even for terms I know exist.", "label": "bug_report"}
+{"text": "Please add support for exporting reports as PDF, not just CSV.", "label": "feature_request"}
+{"text": "I need an invoice for last month's payment for my accounting records.", "label": "billing_issue"}
+{"text": "Password reset email never arrives, checked spam folder too.", "label": "account_access"}
+{"text": "Notifications stopped working after the last app update.", "label": "bug_report"}
+{"text": "Would love a keyboard shortcut for creating a new task.", "label": "feature_request"}
+{"text": "I was double billed this month, can you check my account?", "label": "billing_issue"}
+{"text": "My account got logged out on all devices and I can't sign back in.", "label": "account_access"}
+{"text": "The mobile app freezes on the loading screen every time now.", "label": "bug_report"}
+{"text": "Can you support team workspaces instead of just individual accounts?", "label": "feature_request"}

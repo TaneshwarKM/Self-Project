@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/
+.DS_Store
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+data/benchmark_results.json
