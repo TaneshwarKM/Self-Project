@@ -1,0 +1,7 @@
+[
+  {"question": "How many days of annual leave do employees get?", "expected_doc_id": "company_leave_policy.md"},
+  {"question": "How long is parental leave for a primary caregiver?", "expected_doc_id": "company_leave_policy.md"},
+  {"question": "How many days do I have to return a defective product?", "expected_doc_id": "product_return_policy.md"},
+  {"question": "Who pays for return shipping on a standard return?", "expected_doc_id": "product_return_policy.md"},
+  {"question": "Is a medical certificate needed for sick leave?", "expected_doc_id": "company_leave_policy.md"}
+]

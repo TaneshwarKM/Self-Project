@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.index
+*.faiss
+.streamlit/
+.DS_Store
+*.egg-info/
+build/
+dist/
+data/vector_store/
+.pytest_cache/
